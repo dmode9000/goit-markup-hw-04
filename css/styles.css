@@ -368,7 +368,7 @@ header .container {
   color: var(--text-color);
   margin-bottom: 8px;
 }
-.team-item-socialblock {
+.team-item-socialblock-list {
   display: flex;
   justify-content: center;
   gap: 24px;
