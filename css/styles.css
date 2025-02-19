@@ -482,7 +482,10 @@ header .container {
 }
 .footer .container {
   display: flex;
-  gap: 120px;
+  align-items: baseline;
+}
+.footer-logo-block {
+  margin-right: 120px;
 }
 .footer-logo-lnk {
   font-family: "Raleway", sans-serif;
